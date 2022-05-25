@@ -1,5 +1,11 @@
 # @effect/core
 
+## 0.0.3
+
+### Patch Changes
+
+- [#1209](https://github.com/Effect-TS/core/pull/1209) [`0285962b7`](https://github.com/Effect-TS/core/commit/0285962b727fb6fcf0b56e97e5a3eb59f455e512) Thanks [@IMax153](https://github.com/IMax153)! - death to semicolons
+
 ## 0.0.2
 
 ### Patch Changes
